@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d230506b-6efc-442b-9448-85586af7f027" 
+  <img src="https://github.com/user-attachments/assets/3595ebc2-e451-43e5-ace5-89a1c6e3b6b4" 
        alt="Background Image" 
        style="width: 100%; border-radius: 10px;">
+
 
 
 
