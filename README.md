@@ -2,31 +2,25 @@
 <p align="center">
     <img width="140" src="https://github.com/user-attachments/assets/a8aa9817-9cea-4a68-b043-1905078be50c" 
     style="border-radius: 90%; border: 3px solid #ffffff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-</p>
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manuel Solarte</h1>
 
 
+<h3 align="left">🌟 About Me</h3>
 
-
-
-
-
-## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> About Me
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-- 🧑‍💻  soy un desarrollador backend con enfoque en .NET que disfruta convertir ideas en sistemas escalables y eficientes. Me considero una persona metódica y planeadora, porque en el código (y en la vida) todo fluye mejor con una buena estructura.
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding Animation" /></p>
+- 🧑‍💻 I am a backend developer specializing in .NET, passionate about turning ideas into scalable and efficient systems. I consider myself methodical and a planner, as both in code and in life, everything flows better with a good structure.
 
 - 🌏 I'm living now in Popayan, Colombia
 - 📚 My major is Software Engineering
-- 🎵 Fuera del código…
-Me gusta Viajar, escuchar música y compartir.
+- 🎵 Beyond the code…
+I enjoy traveling, listening to music, and connecting with others.
 
 - 📩  How to reach me [**manuel.solarte.dev@gmail.com**].
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align = "left">🤝 Connect with me </h3>
+	<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/manuel-solarte-229ba72b3/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
 <a href="mailto:manuel.solarte.dev@gmail.com" target="_blank">
@@ -37,11 +31,7 @@ Me gusta Viajar, escuchar música y compartir.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack
-
 ### 🛠 &nbsp;Tech Stack
-
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
