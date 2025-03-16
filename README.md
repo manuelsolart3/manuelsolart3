@@ -1,7 +1,14 @@
-
 <p align="center">
-    <img width="140" src="https://github.com/user-attachments/assets/a8aa9817-9cea-4a68-b043-1905078be50c" 
-    style="border-radius: 90%; border: 3px solid #ffffff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/user-attachments/assets/d230506b-6efc-442b-9448-85586af7f027" 
+       alt="Background Image" 
+       style="width: 100%; border-radius: 10px;">
+
+
+
+
+ 
+</p>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manuel Solarte</h1>
 
 
